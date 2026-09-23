@@ -1,0 +1,6 @@
+{
+  "name": "AI INNOVATE 2026",
+  "description": "Explore AI. Build the Future. Premium technology event registration and conference symposium website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
